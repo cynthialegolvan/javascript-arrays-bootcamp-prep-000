@@ -1,3 +1,3 @@
 var chocolateBars = ['snickers, hundred grand, kitkat, skittles']
-var 
+var candyString = 'foo'
 function addElementToBeginningOfArray()
